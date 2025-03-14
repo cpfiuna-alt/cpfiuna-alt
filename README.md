@@ -1,5 +1,7 @@
 # ![Banner del Club de Programación FIUNA](https://drive.google.com/uc?export=view&id=1mQep_u9-gZ8SvomNW96Hp4tUer4L_lmI)
 
+# STAGING GITHUB PARA USOS DEL CLUB, PARA USOS OFICIALES VER LA ORGANIZACIÓN
+
 ## 🚀 **Club de Programación FIUNA**  
 
 Somos una comunidad de estudiantes y entusiastas de la tecnología apasionados por la programación y la innovación. Nuestro objetivo es **crear un espacio donde cualquiera pueda aprender, desarrollar proyectos y conectar con la industria tecnológica**. Más que un club, somos un ecosistema de aprendizaje y experimentación, donde la creatividad y el código se unen para resolver desafíos reales.  
