@@ -1,6 +1,6 @@
 # ![Banner del Club de Programación FIUNA](https://drive.google.com/uc?export=view&id=1mQep_u9-gZ8SvomNW96Hp4tUer4L_lmI)
 
-# GITHUB DE STAGING DEL CLUB, PARA CUENTA OFICIAL VER LA [ORGANIZACIÓN](https://github.com/cpfiuna)
+### GITHUB DE STAGING DEL CLUB, PARA CUENTA OFICIAL VER LA [ORGANIZACIÓN](https://github.com/cpfiuna)
 
 ## 🚀 **Club de Programación FIUNA**  
 
