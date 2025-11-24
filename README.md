@@ -10,18 +10,18 @@ En nuestra comunidad estamos armando varios proyectos interesantes y siempre hay
 Visitá nuestra [página web](https://cpfiuna.io) para saber más sobre nosotros y conectá con nosotros en cualquiera de nuestras redes sociales:
 
 <div align="center">
-  
+
   [![Instagram](https://img.shields.io/badge/Instagram-cpf?style=plastic&logo=instagram&logoColor=%23fafafa&labelColor=%23FF0069&color=%23FF0069)](https://instagram.com/cpfiuna)
   [![X](https://img.shields.io/badge/X-cpf?style=plastic&logo=x&logoColor=%23fafafa&labelColor=%23000000&color=%23000000)](https://x.com/cpfiuna)
   [![Discord](https://img.shields.io/badge/Discord-cpf?style=plastic&logo=discord&logoColor=%23fafafa&labelColor=%235865F2&color=%235865F2)](https://discord.gg/UtRpKw2ay4)
   [![YouTube](https://img.shields.io/badge/YouTube-cpf?style=plastic&logo=youtube&logoColor=%23fafafa&labelColor=%23FF0000&color=%23FF0000)](https://youtube.com/@cpfiuna)
-  [![Linktree](https://img.shields.io/badge/Linktree-cpf?style=plastic&logo=linktree&logoColor=%23fafafa&labelColor=%2343E55E&color=%2343E55E)](https://linktr.ee/cpfiuna)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-cpf?style=plastic&logo=inspire&logoColor=%23FAFAFA&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/company/cpfiuna)
 
 </div>
 
 ---
 <div align="center">
 
-  Todos los proyectos y actividades del \</cpf\> siguen el siguiente [Código de Conducta](https://cpfiuna.vercel.app/codigo-de-conducta).
+  Todos los proyectos y actividades del \</cpf\> siguen el siguiente [Código de Conducta](https://cpfiuna.io/codigo-de-conducta).
 
 </div>
